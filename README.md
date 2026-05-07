@@ -24,7 +24,7 @@ I am a **Computer Science** student at the **National University of Computer & E
 
 ### 🔬 Academic Highlights
 
-  * **FAST-NUCES**: Maintaining a **2.92 CGPA** in a rigorous, grade-deflated CS program.
+  * **FAST National University of Computer and Emerging Sciences**: Pursuing **Computer Science** in a rigorous and highly competitive academic environment.
   * **Systems Programming**: Implemented a **5-stage RISC-V pipeline simulator** with hazard detection, data forwarding, and stall logic.
   * **Relevant Coursework**: Artificial Intelligence, MLOps, Data Science, Design & Analysis of Algorithms, and Operating Systems.
 
